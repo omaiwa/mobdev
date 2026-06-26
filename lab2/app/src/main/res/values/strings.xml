@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mobdev</string>
+    <string name="contacts_title">Контакты</string>
+    <string name="permission_denied">Нет разрешения на чтение контактов</string>
+    <string name="request_permission">Запросить разрешение</string>
+    <string name="no_contacts">Контакты не найдены</string>
+    <string name="add_contacts_hint">Добавьте контакты в приложении «Контакты» на устройстве</string>
+    <string name="back">Назад</string>
+    <string name="contact_detail_title">Контакт</string>
+    <string name="label_name">Имя</string>
+    <string name="label_phone">Телефон</string>
+    <string name="label_email">email</string>
+    <string name="value_unknown">—</string>
+</resources>
