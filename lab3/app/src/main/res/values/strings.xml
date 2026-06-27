@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Чат</string>
+    <string name="login_title">Вход</string>
+    <string name="login_username_hint">Логин</string>
+    <string name="login_password_hint">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="login_error">Неверный логин / пароль</string>
+    <string name="login_error_generic">Не удалось войти. Попробуйте снова.</string>
+    <string name="chats_title">Чаты</string>
+    <string name="logout">Выход</string>
+    <string name="select_chat">Выберите чат</string>
+    <string name="messages_back">К чатам</string>
+    <string name="message_input_hint">Сообщение</string>
+    <string name="send">Отправить</string>
+    <string name="loading">Загрузка…</string>
+    <string name="no_channels">Каналы не найдены</string>
+    <string name="no_messages">Сообщений пока нет</string>
+    <string name="load_more">Загрузка сообщений…</string>
+    <string name="load_more_button">Загрузить ещё</string>
+    <string name="image_close">Закрыть</string>
+    <string name="image_load_error">Не удалось загрузить изображение</string>
+    <string name="error_dialog_ok">OK</string>
+    <string name="channel_default">1@channel</string>
+</resources>
